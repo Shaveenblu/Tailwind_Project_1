@@ -12,6 +12,7 @@ Actually I was developed this website as a part of learning Tailwind CSS. To lea
 
 # Find the links for the resources and full tutorial under here
 
-<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0szZW9hemRla2JXNVg1ZVB4RXlSS2w4dnRSUXxBQ3Jtc0tsMGI3aXJFV0dFdVpPaF9IalBob0dUdlVlVzc0bkRVbTNlaGxFdFBWTEJyTmtTeWVEazdtVnR4NlpCYUZkbFpaY05ZamEyOVZvSTNCREYwQmlieHQzQllHWDY2WnFGRm5pOE5nbGFPbVpZaFNzWVVZdw&q=https%3A%2F%2Fbit.ly%2F3BKYrzg&v=lCxcTsOHrjo" target="_blank">
+<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0szZW9hemRla2JXNVg1ZVB4RXlSS2w4dnRSUXxBQ3Jtc0tsMGI3aXJFV0dFdVpPaF9IalBob0dUdlVlVzc0bkRVbTNlaGxFdFBWTEJyTmtTeWVEazdtVnR4NlpCYUZkbFpaY05ZamEyOVZvSTNCREYwQmlieHQzQllHWDY2WnFGRm5pOE5nbGFPbVpZaFNzWVVZdw&q=https%3A%2F%2Fbit.ly%2F3BKYrzg&v=lCxcTsOHrjo" target="_blank"> Youtube Link
+
 
 
